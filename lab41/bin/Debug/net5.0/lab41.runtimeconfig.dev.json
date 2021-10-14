@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Jamadog\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Jamadog\\.nuget\\packages"
+    ]
+  }
+}
